@@ -1,5 +1,9 @@
 #Earthquake
 
+Refer to g3d-license.txt for credits.
+
+This is my version of the implmentation. Enjoy!
+
 Files Edited:
 
 App.cpp
